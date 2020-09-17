@@ -76,16 +76,16 @@
  * specific needs.
  *
  * @code
- * $databases['default']['default'] = [
- *   'database' => 'databasename',
- *   'username' => 'sqlusername',
- *   'password' => 'sqlpassword',
+*  $databases['default']['default'] = [
+ *   'database' => 'ots-technology',
+ *   'username' => 'root',
+ *   'password' => '101822',
  *   'host' => 'localhost',
- *   'port' => '3306',
+  *  'port' => '3306',
  *   'driver' => 'mysql',
  *   'prefix' => '',
  *   'collation' => 'utf8mb4_general_ci',
- * ];
+  *];
  * @endcode
  */
 $databases = [];
