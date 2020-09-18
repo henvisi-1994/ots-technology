@@ -774,9 +774,9 @@ $settings['migrate_node_migrate_type_classic'] = FALSE;
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'ots-technology',
+  'database' => 'ots-technology-test',
   'username' => 'root',
-  'password' => '101822',
+  'password' => 'ligaher2020**',
   'prefix' => '',
   'host' => 'localhost',
   'port' => '3306',

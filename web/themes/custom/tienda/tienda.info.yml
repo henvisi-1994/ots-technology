@@ -1,0 +1,10 @@
+name: tienda
+type: theme
+description: 'Tienda de tegnologia'
+package: Other
+core: 8.x
+core_version_requirement: ^8 || ^9
+libraries:
+  - tienda/global-styling
+ 
+base theme: false
